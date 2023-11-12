@@ -1,0 +1,10 @@
+C:\Users\devra\Desktop\C# Projelerim\IkıBoyutluNesneHareketi\IkıBoyutluNesneHareketi\bin\Debug\IkıBoyutluNesneHareketi.exe.config
+C:\Users\devra\Desktop\C# Projelerim\IkıBoyutluNesneHareketi\IkıBoyutluNesneHareketi\bin\Debug\IkıBoyutluNesneHareketi.exe
+C:\Users\devra\Desktop\C# Projelerim\IkıBoyutluNesneHareketi\IkıBoyutluNesneHareketi\bin\Debug\IkıBoyutluNesneHareketi.pdb
+C:\Users\devra\Desktop\C# Projelerim\IkıBoyutluNesneHareketi\IkıBoyutluNesneHareketi\obj\Debug\IkıBoyutluNesneHareketi.csproj.AssemblyReference.cache
+C:\Users\devra\Desktop\C# Projelerim\IkıBoyutluNesneHareketi\IkıBoyutluNesneHareketi\obj\Debug\IkıBoyutluNesneHareketi.Form1.resources
+C:\Users\devra\Desktop\C# Projelerim\IkıBoyutluNesneHareketi\IkıBoyutluNesneHareketi\obj\Debug\IkıBoyutluNesneHareketi.Properties.Resources.resources
+C:\Users\devra\Desktop\C# Projelerim\IkıBoyutluNesneHareketi\IkıBoyutluNesneHareketi\obj\Debug\IkıBoyutluNesneHareketi.csproj.GenerateResource.cache
+C:\Users\devra\Desktop\C# Projelerim\IkıBoyutluNesneHareketi\IkıBoyutluNesneHareketi\obj\Debug\IkıBoyutluNesneHareketi.csproj.CoreCompileInputs.cache
+C:\Users\devra\Desktop\C# Projelerim\IkıBoyutluNesneHareketi\IkıBoyutluNesneHareketi\obj\Debug\IkıBoyutluNesneHareketi.exe
+C:\Users\devra\Desktop\C# Projelerim\IkıBoyutluNesneHareketi\IkıBoyutluNesneHareketi\obj\Debug\IkıBoyutluNesneHareketi.pdb
